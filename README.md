@@ -10,6 +10,6 @@ The repository is organized as follows:
 
 > Note:
 > 
-> CPU code and GPU code should be complied with `g++` and 'nvcc', respectively.
+> CPU code and GPU code should be complied with `g++` and `nvcc`, respectively.
 > 
 > Datasets can be downloaded from [SNAP](http://snap.stanford.edu/data/index.html).
