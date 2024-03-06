@@ -8,4 +8,5 @@ The repository is organized as follows:
 * ```CPU/```: CPU implementation of PageRank.
 * ```GPU/```: GPU implementation of PageRank, including pull-based, push-based, and edge-based implementations.
 
+CPU code and GPU code should be complied with `g++` and 'nvcc', respectively.
 Datasets can be downloaded from [SNAP](http://snap.stanford.edu/data/index.html).
