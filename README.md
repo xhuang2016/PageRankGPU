@@ -6,6 +6,6 @@ This repository provides the C++ and CUDA implementations of the PageRank algori
 
 The repository is organized as follows:
 * ```CPU/```: CPU implementation of PageRank.
-* ```GPU/```: GPU implementation of PageRank.
+* ```GPU/```: GPU implementation of PageRank, including pull-based, push-based, and edge-based implementations.
 
 Datasets can be downloaded from [SNAP](http://snap.stanford.edu/data/index.html).
